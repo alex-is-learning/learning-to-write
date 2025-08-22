@@ -1,0 +1,4 @@
+- I have a page (or a few pages about him on my learning-to-think website), so I won't write much more here
+	- This URL will probably break at some point, but here's the [DFW page](https://www.alexislearning.me/learning-to-think/%E2%AD%90%EF%B8%8F-Open-Questions/4.-What-do-I-do-with-the-things-I-love/Notes/DFW/David-Foster-Wallace-(parent-page)) on my other site, which pre-dates this one...
+- But, the main point is just that David Foster Wallace is the only author who I have listened to many interviews of. So he's my only real reference for the process of writing, etc
+- So, I imagine he'll be coming up a lot!
