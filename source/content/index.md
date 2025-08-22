@@ -9,4 +9,4 @@ permalink: home-page
 ## August 2025
 - Friday 2025-08-22
 	- [[01. To be a boomer]]
-	- Maybe I should port older writings here? Like Substacks? Idk
+	- [[02. Don't be overwhelmed!]]

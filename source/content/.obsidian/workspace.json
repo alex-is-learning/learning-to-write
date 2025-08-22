@@ -13,58 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Meta/Expressive Mode vs Communicative Mode.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expressive Mode vs Communicative Mode"
-            }
-          },
-          {
-            "id": "ce09d7e1b48a8147",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Appendices/To be a boomer - appendix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To be a boomer - appendix"
-            }
-          },
-          {
-            "id": "4fc10dc574a6656c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Writings/01. To be a boomer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01. To be a boomer"
-            }
-          },
-          {
-            "id": "04c46868245f8632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Writings/02. Don't be overwhelmed!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02. Don't be overwhelmed!"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Writings/02. Don't be overwhelmed!.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 02. Don't be overwhelmed!"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -156,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Writings/02. Don't be overwhelmed!.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 02. Don't be overwhelmed!"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -185,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Writings/02. Don't be overwhelmed!.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02. Don't be overwhelmed!"
+              "title": "Outline of index"
             }
           }
         ]
@@ -212,13 +169,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04c46868245f8632",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "3. Meta/Expressive Mode vs Communicative Mode.md",
+    "2. Appendices/To be a boomer - appendix.md",
     "1. Writings/01. To be a boomer.md",
     "1. Writings/02. Don't be overwhelmed!.md",
-    "2. Appendices/To be a boomer - appendix.md",
     "3. Meta/Meta (about this website).md",
-    "3. Meta/Expressive Mode vs Communicative Mode.md",
     "2. Appendices",
     "index.md",
     "3. Meta/What's dumb about a website like this.md",
