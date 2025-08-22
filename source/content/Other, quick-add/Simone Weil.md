@@ -1,1 +1,0 @@
-- [[Simone Weil, David Foster Wallace, the Buddha]]

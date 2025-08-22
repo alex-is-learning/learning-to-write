@@ -2,13 +2,13 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Alex is Learning (To Think) Configuration
+ * Alex is Learning (To Write) Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🔭 Alex is Learning (To Think)",
+  pageTitle: "🔭 Alex is Learning (To Write)",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,

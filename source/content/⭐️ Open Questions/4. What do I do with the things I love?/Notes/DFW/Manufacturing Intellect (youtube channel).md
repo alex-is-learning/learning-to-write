@@ -1,2 +1,0 @@
-- [DFW and Charlie Rose (1997)](https://www.youtube.com/watch?v=GopJ1x7vK2Q)
-- [DFW German interview (2003)](https://www.youtube.com/watch?v=iGLzWdT7vGc&t=920s)
